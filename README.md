@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		
-	</head>
-	<body>
+
 		<!DOCTYPE html>
 		<html>
 		<head>  
@@ -30,7 +25,3 @@
 				<li type="circle">荷花<></body>		
 		</body>
 		<ml>
-
-		
-	</body>
-<ml>
